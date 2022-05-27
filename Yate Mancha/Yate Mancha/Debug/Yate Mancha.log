@@ -1,0 +1,4 @@
+﻿  Yate Mancha.cpp
+C:\Users\sofis\OneDrive\Escritorio\Santi\ORT 3IA\Visual Studio\Yate Mancha\Yate Mancha\Yate Mancha.cpp(140,32): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\sofis\OneDrive\Escritorio\Santi\ORT 3IA\Visual Studio\Yate Mancha\Yate Mancha\Yate Mancha.cpp(213,33): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Yate Mancha.vcxproj -> C:\Users\sofis\OneDrive\Escritorio\Santi\ORT 3IA\Visual Studio\Yate Mancha\Debug\Yate Mancha.exe

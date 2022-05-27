@@ -1,0 +1,10 @@
+﻿  StanK.cpp
+D:\ORT 3IA\Visual Studio\StanK Company\StanK Company\StanK.cpp(4,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+D:\ORT 3IA\Visual Studio\StanK Company\StanK Company\StanK.cpp(6,43): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\ORT 3IA\Visual Studio\StanK Company\StanK Company\StanK.cpp(7,44): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\ORT 3IA\Visual Studio\StanK Company\StanK Company\StanK.cpp(8,44): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\ORT 3IA\Visual Studio\StanK Company\StanK Company\StanK.cpp(42,45): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+D:\ORT 3IA\Visual Studio\StanK Company\StanK Company\StanK.cpp(47,34): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+D:\ORT 3IA\Visual Studio\StanK Company\StanK Company\StanK.cpp(54,47): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+D:\ORT 3IA\Visual Studio\StanK Company\StanK Company\StanK.cpp(59,47): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  StanK Company.vcxproj -> D:\ORT 3IA\Visual Studio\StanK Company\Debug\StanK Company.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\ORT 3IA\Visual Studio\Estacionamiento\Estacionamiento\Source.cpp(49,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Estacionamiento.vcxproj -> D:\ORT 3IA\Visual Studio\Estacionamiento\Debug\Estacionamiento.exe

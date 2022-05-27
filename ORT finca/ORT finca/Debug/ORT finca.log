@@ -1,0 +1,15 @@
+﻿  Finca.cpp
+D:\ORT 3IA\Visual Studio\ORT finca\ORT finca\Finca.cpp(4,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+D:\ORT 3IA\Visual Studio\ORT finca\ORT finca\Finca.cpp(8,30): error C2734: 'PRECIOUVAGENERAL': el objeto 'const' debe inicializarse si no es de tipo 'extern'
+D:\ORT 3IA\Visual Studio\ORT finca\ORT finca\Finca.cpp(9,25): error C2734: 'PRECIOUVA1A': el objeto 'const' debe inicializarse si no es de tipo 'extern'
+D:\ORT 3IA\Visual Studio\ORT finca\ORT finca\Finca.cpp(10,25): error C2734: 'PRECIOUVA1B': el objeto 'const' debe inicializarse si no es de tipo 'extern'
+D:\ORT 3IA\Visual Studio\ORT finca\ORT finca\Finca.cpp(11,25): error C2734: 'PRECIOUVA2A': el objeto 'const' debe inicializarse si no es de tipo 'extern'
+D:\ORT 3IA\Visual Studio\ORT finca\ORT finca\Finca.cpp(12,25): error C2734: 'PRECIOUVA2B': el objeto 'const' debe inicializarse si no es de tipo 'extern'
+D:\ORT 3IA\Visual Studio\ORT finca\ORT finca\Finca.cpp(14,2): error C3892: 'PRECIOUVAGENERAL': no se puede asignar a una variable constante
+D:\ORT 3IA\Visual Studio\ORT finca\ORT finca\Finca.cpp(17,20): warning C4305: '=': truncamiento de 'double' a 'const float'
+D:\ORT 3IA\Visual Studio\ORT finca\ORT finca\Finca.cpp(17,2): error C3892: 'PRECIOUVA1A': no se puede asignar a una variable constante
+D:\ORT 3IA\Visual Studio\ORT finca\ORT finca\Finca.cpp(18,20): warning C4305: '=': truncamiento de 'double' a 'const float'
+D:\ORT 3IA\Visual Studio\ORT finca\ORT finca\Finca.cpp(18,2): error C3892: 'PRECIOUVA2A': no se puede asignar a una variable constante
+D:\ORT 3IA\Visual Studio\ORT finca\ORT finca\Finca.cpp(21,20): warning C4305: '=': truncamiento de 'double' a 'const float'
+D:\ORT 3IA\Visual Studio\ORT finca\ORT finca\Finca.cpp(21,2): error C3892: 'PRECIOUVA1B': no se puede asignar a una variable constante
+D:\ORT 3IA\Visual Studio\ORT finca\ORT finca\Finca.cpp(22,2): error C3892: 'PRECIOUVA2B': no se puede asignar a una variable constante

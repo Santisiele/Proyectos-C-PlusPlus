@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\ORT 3IA\Visual Studio\Calculadora\Calculadora\Source.cpp(6,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Calculadora.vcxproj -> D:\ORT 3IA\Visual Studio\Calculadora\Debug\Calculadora.exe

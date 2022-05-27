@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\ORT 3IA\Visual Studio\Generala\Generala\Source.cpp(55,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+D:\ORT 3IA\Visual Studio\Generala\Generala\Source.cpp(57,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generala.vcxproj -> D:\ORT 3IA\Visual Studio\Generala\Debug\Generala.exe

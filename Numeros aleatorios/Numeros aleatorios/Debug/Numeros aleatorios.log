@@ -1,0 +1,4 @@
+﻿  numeros aleatorios.cpp
+D:\ORT 3IA\Visual Studio\Numeros aleatorios\Numeros aleatorios\numeros aleatorios.cpp(197,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+D:\ORT 3IA\Visual Studio\Numeros aleatorios\Numeros aleatorios\numeros aleatorios.cpp(242,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Numeros aleatorios.vcxproj -> D:\ORT 3IA\Visual Studio\Numeros aleatorios\Debug\Numeros aleatorios.exe

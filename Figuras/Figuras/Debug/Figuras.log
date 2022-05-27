@@ -1,0 +1,4 @@
+﻿  Figuras.cpp
+D:\ORT 3IA\Visual Studio\Figuras\Figuras\Figuras.cpp(69,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+D:\ORT 3IA\Visual Studio\Figuras\Figuras\Figuras.cpp(86,25): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Figuras.vcxproj -> D:\ORT 3IA\Visual Studio\Figuras\Debug\Figuras.exe

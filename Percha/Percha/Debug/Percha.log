@@ -1,0 +1,3 @@
+﻿  Percha.cpp
+D:\ORT 3IA\Visual Studio\Percha\Percha\Percha.cpp(88,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Percha.vcxproj -> D:\ORT 3IA\Visual Studio\Percha\Debug\Percha.exe

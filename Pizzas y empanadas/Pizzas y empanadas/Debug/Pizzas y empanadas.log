@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\ORT 3IA\Pizzas y empanadas\Pizzas y empanadas\Source.cpp(5,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Pizzas y empanadas.vcxproj -> D:\ORT 3IA\Pizzas y empanadas\Debug\Pizzas y empanadas.exe

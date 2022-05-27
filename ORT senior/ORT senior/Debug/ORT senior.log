@@ -1,0 +1,6 @@
+﻿  ORT senior.cpp
+D:\ORT 3IA\Visual Studio\ORT senior\ORT senior\ORT senior.cpp(57,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+D:\ORT 3IA\Visual Studio\ORT senior\ORT senior\ORT senior.cpp(100,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ORT 3IA\Visual Studio\ORT senior\ORT senior\ORT senior.cpp(120,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ORT 3IA\Visual Studio\ORT senior\ORT senior\ORT senior.cpp(68,6): warning C4101: 'edades': variable local sin referencia
+  ORT senior.vcxproj -> D:\ORT 3IA\Visual Studio\ORT senior\Debug\ORT senior.exe

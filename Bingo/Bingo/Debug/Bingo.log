@@ -1,0 +1,6 @@
+﻿  Bingo.cpp
+C:\Users\sofis\OneDrive\Escritorio\Santi\ORT 3IA\Visual Studio\Bingo\Bingo\Bingo.cpp(92,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\sofis\OneDrive\Escritorio\Santi\ORT 3IA\Visual Studio\Bingo\Bingo\Bingo.cpp(105,9): warning C4101: 'numeroRandom': variable local sin referencia
+C:\Users\sofis\OneDrive\Escritorio\Santi\ORT 3IA\Visual Studio\Bingo\Bingo\Bingo.cpp(107,9): warning C4101: 'tablero2': variable local sin referencia
+C:\Users\sofis\OneDrive\Escritorio\Santi\ORT 3IA\Visual Studio\Bingo\Bingo\Bingo.cpp(106,9): warning C4101: 'tablero1': variable local sin referencia
+  Bingo.vcxproj -> C:\Users\sofis\OneDrive\Escritorio\Santi\ORT 3IA\Visual Studio\Bingo\Debug\Bingo.exe

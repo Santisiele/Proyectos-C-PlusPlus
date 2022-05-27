@@ -1,0 +1,4 @@
+﻿  Sala de escape.cpp
+D:\ORT 3IA\Visual Studio\Sala de escape\Sala de escape\Sala de escape.cpp(161,18): warning C4244: '=': conversión de 'time_t' a 'int'; posible pérdida de datos
+D:\ORT 3IA\Visual Studio\Sala de escape\Sala de escape\Sala de escape.cpp(193,23): warning C4244: '=': conversión de 'time_t' a 'int'; posible pérdida de datos
+  Sala de escape.vcxproj -> D:\ORT 3IA\Visual Studio\Sala de escape\Debug\Sala de escape.exe
